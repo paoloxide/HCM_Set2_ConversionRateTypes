@@ -1,1 +1,2 @@
-# HCM_Set2_ConversionRateTypes
+# HCM_Selenium
+Repository for the application to invoke selenium.
